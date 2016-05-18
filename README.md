@@ -1,3 +1,3 @@
 # WSN
 
-A Energy model usinf NS3 for the efficient power consumption of a mesh topology
+A Energy model using NS3 for the efficient power consumption of a mesh topology
